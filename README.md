@@ -1,2 +1,2 @@
-# Analisis multivariado del crimen en Estados Unidos
+# Análisis multivariado del crimen en Estados Unidos
 Utilizando el Uniform Crime Report, sistema de información ofrecido por el FBI, se realizará una exploración básica sobre la base de datos presentada por el informe “Crime in The United States 2010”, en la cual se pretenderá indagar por algunas relaciones entre las variables más relevantes que reporta este informe. Esta indagación también incluye un paso a paso tipo journal desde el inicio de la toma de los datos hasta las conclusiones, y de no llegar a este último paso, se pretenderá realizar un planteamiento de cómo llegar a resolver algunas inquietudes propias de esta elaboración.
